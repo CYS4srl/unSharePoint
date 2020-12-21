@@ -1,0 +1,8 @@
+requests_ntlm2
+requests
+urllib3
+pyfiglet
+beautifulsoup4
+lxml
+zeep
+colorama

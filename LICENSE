@@ -1,0 +1,71 @@
+unSharePoint Public Source License
+
+The unSharePoint software (henceforth referred to simply as "unSharePoint") is dual-licensed - Copyright 2020 CYS4 Srl.
+
+Cases that include commercialization of unSharePoint require a commercial, non-free license. Otherwise, unSharePoint can be used without charge under the terms set out below.
+
+1. Definitions
+
+1.1 "License" means this document.
+1.2 "Contributor" means each individual or legal entity that creates, contributes to the creation of, or owns unSharePoint.
+1.3 "unSharePoint Team" means unSharePoint’s core developers.
+
+2. Commercialization
+
+A commercial use is one intended for commercial advantage or monetary compensation.
+
+Example cases of commercialization are:
+
+ - Using unSharePoint to provide commercial managed/Software-as-a-Service services.
+ - Distributing unSharePoint as a commercial product or as part of one.
+ - Using unSharePoint as a value added service/product.
+
+Example cases which do not require a commercial license, and thus fall under the terms set out below, include (but are not limited to):
+
+ - Penetration testers (or penetration testing organizations) using unSharePoint as part of their assessment toolkit.
+ - Using unSharePoint to test your own systems.
+ - Any non-commercial use of unSharePoint.
+
+If you need to purchase a commercial license or are unsure whether you need to purchase a commercial license contact us - info@cys4.com.
+
+Free-use Terms and Conditions;
+
+3. Redistribution
+
+Redistribution is permitted under the following conditions:
+
+ - Unmodified License is provided with unSharePoint.
+ - Unmodified Copyright notices are provided with unSharePoint.
+ - Does not conflict with the commercialization clause.
+
+4. Copying
+
+Copying is permitted so long as it does not conflict with the Redistribution clause.
+
+5. Modification
+
+Modification is permitted so long as it does not conflict with the Redistribution clause.
+
+6. Contributions
+
+Any Contributions assume the Contributor grants the unSharePoint Team the unlimited, non-exclusive right to reuse, modify and relicense the Contributor's content.
+
+7. Support
+
+unSharePoint is provided under an AS-IS basis and without any support, updates or maintenance. Support, updates and maintenance may be given according to the sole discretion of the unSharePoint Team.
+
+8. Disclaimer of Warranty
+
+unSharePoint is provided under this License on an "as is" basis, without warranty of any kind, either expressed, implied, or statutory, including, without limitation, warranties that the unSharePoint is free of defects, merchantable, fit for a particular purpose or non-infringing.
+
+9. Limitation of Liability
+
+To the extent permitted under Law, unSharePoint is provided under an AS-IS basis. The unSharePoint Team shall never, and without any limit, be liable for any damage, cost, expense or any other payment incurred as a result of unSharePoint's actions, failure, bugs and/or any other interaction between unSharePoint and end-equipment, computers, other software or any 3rd party, end-equipment, computer or services.
+
+10. Disclaimer
+
+Running unSharePoint against websites without prior mutual consent may be illegal in your country. The unSharePoint Team accept no liability and are not responsible for any misuse or damage caused by unSharePoint.
+
+11. Trademark
+
+The "unSharePoint" term is a registered trademark. This License does not grant the use of the "unSharePoint" trademark.
