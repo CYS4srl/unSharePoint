@@ -5,7 +5,7 @@ Currently supported for Python v. >= 3.x.
 To run the project, first clone the repo:
 
 ```
-git clone https://github.com/WickdDavid/unSharePoint.git
+git clone https://github.com/CYS4srl/unSharePoint.git
 ```
 
 Then, install dependencies:
