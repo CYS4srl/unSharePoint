@@ -44,8 +44,8 @@ BUILD_URL = "https://portal.msrc.microsoft.com/api/security-guidance/en-us"
 CVE_URL = "https://cve.mitre.org/cgi-bin/cvename.cgi?name=%s"
 # ua string used for the requests
 # database url from github repo
-DB_VERSION_URL = "https://raw.githubusercontent.com/WickdDavid/unSharePoint/master/db/versions.csv"
-DB_CVE_URL = "https://raw.githubusercontent.com/WickdDavid/unSharePoint/master/db/cves.csv"
+DB_VERSION_URL = "https://raw.githubusercontent.com/CYS4srl/unSharePoint/master/db/versions.csv"
+DB_CVE_URL = "https://raw.githubusercontent.com/CYS4srl/unSharePoint/master/db/cves.csv"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0) like Gecko"
 # folder database
 DATABASE_FOLDER = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))) + os.path.sep + "db"
