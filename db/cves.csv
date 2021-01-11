@@ -1,15 +1,15 @@
 11099,ADV170008,2017-06-13T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,None,None,N/A
 11099,CVE-2018-0797,2018-01-18T08:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Critical,Remote Code Execution,N/A
 11099,CVE-2020-0931,2020-04-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Critical,Remote Code Execution,N/A
+11099,CVE-2019-1201,2019-08-13T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Critical,Remote Code Execution,N/A
+11099,CVE-2020-1147,2020-07-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Critical,Remote Code Execution,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1147
+11099,CVE-2020-1439,2020-07-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Critical,Remote Code Execution,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1439
 11099,CVE-2020-1452,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Critical,Remote Code Execution,N/A
 11099,CVE-2020-1460,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Critical,Remote Code Execution,N/A
 11099,CVE-2020-1453,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Critical,Remote Code Execution,N/A
 11099,CVE-2020-1576,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Critical,Remote Code Execution,N/A
 11099,CVE-2020-1210,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Critical,Remote Code Execution,N/A
 11099,CVE-2020-1595,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Critical,Remote Code Execution,N/A
-11099,CVE-2019-1201,2019-08-13T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Critical,Remote Code Execution,N/A
-11099,CVE-2020-1147,2020-07-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Critical,Remote Code Execution,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1147
-11099,CVE-2020-1439,2020-07-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Critical,Remote Code Execution,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1439
 11099,CVE-2019-1446,2019-11-12T08:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Information Disclosure,N/A
 11099,CVE-2019-0831,2019-04-09T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Spoofing,N/A
 11099,CVE-2018-8284,2018-09-05T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Remote Code Execution,N/A
@@ -67,11 +67,6 @@
 11099,CVE-2018-1032,2018-04-10T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Elevation of Privilege,N/A
 11099,CVE-2018-1005,2018-04-10T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Elevation of Privilege,N/A
 11099,CVE-2018-1014,2018-04-10T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Elevation of Privilege,N/A
-11099,CVE-2020-1198,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Spoofing,N/A
-11099,CVE-2020-1218,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Remote Code Execution,N/A
-11099,CVE-2020-1224,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Information Disclosure,N/A
-11099,CVE-2020-1227,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Spoofing,N/A
-11099,CVE-2020-1440,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Tampering,N/A
 11099,CVE-2019-1203,2019-08-13T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Spoofing,N/A
 11099,CVE-2020-1447,2020-07-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Remote Code Execution,N/A
 11099,CVE-2020-1450,2020-07-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Spoofing,N/A
@@ -87,6 +82,13 @@
 11099,CVE-2020-1495,2020-08-11T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Remote Code Execution,N/A
 11099,CVE-2020-1500,2020-08-11T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Spoofing,N/A
 11099,CVE-2020-1573,2020-08-11T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Spoofing,N/A
+11099,CVE-2020-1198,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Spoofing,N/A
+11099,CVE-2020-1218,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Remote Code Execution,N/A
+11099,CVE-2020-1224,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Information Disclosure,N/A
+11099,CVE-2020-1227,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Spoofing,N/A
+11099,CVE-2020-1440,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Tampering,N/A
+11099,CVE-2020-17060,2020-11-10T08:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Spoofing,N/A
+11099,CVE-2020-17016,2020-11-10T08:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Spoofing,N/A
 11099,CVE-2020-16929,2020-10-13T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Important,Remote Code Execution,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-16929
 11099,CVE-2017-8509,2017-07-05T07:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Moderate,Remote Code Execution,N/A
 11099,CVE-2019-0670,2019-02-12T08:00:00Z,Microsoft SharePoint Enterprise Server 2013 Service Pack 1,Moderate,Spoofing,N/A
@@ -106,6 +108,10 @@
 10950,CVE-2020-0929,2020-04-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Remote Code Execution,N/A
 10950,CVE-2020-0931,2020-04-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Remote Code Execution,N/A
 10950,CVE-2020-1181,2020-06-09T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Remote Code Execution,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1181
+10950,CVE-2019-1201,2019-08-13T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Remote Code Execution,N/A
+10950,CVE-2020-1147,2020-07-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Remote Code Execution,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1147
+10950,CVE-2020-1025,2020-07-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Elevation of Privilege,N/A
+10950,CVE-2020-1439,2020-07-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Remote Code Execution,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1439
 10950,CVE-2020-1452,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Remote Code Execution,N/A
 10950,CVE-2020-1460,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Remote Code Execution,N/A
 10950,CVE-2020-1453,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Remote Code Execution,N/A
@@ -113,12 +119,10 @@
 10950,CVE-2020-1200,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Remote Code Execution,N/A
 10950,CVE-2020-1210,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Remote Code Execution,N/A
 10950,CVE-2020-1595,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Remote Code Execution,N/A
-10950,CVE-2019-1201,2019-08-13T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Remote Code Execution,N/A
-10950,CVE-2020-1147,2020-07-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Remote Code Execution,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1147
-10950,CVE-2020-1025,2020-07-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Elevation of Privilege,N/A
-10950,CVE-2020-1439,2020-07-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Remote Code Execution,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1439
 10950,CVE-2020-16951,2020-10-13T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Remote Code Execution,N/A
 10950,CVE-2020-16952,2020-10-13T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Remote Code Execution,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-16952
+10950,CVE-2020-17121,2020-12-08T08:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Remote Code Execution,N/A
+10950,CVE-2020-17118,2020-12-08T08:00:00Z,Microsoft SharePoint Enterprise Server 2016,Critical,Remote Code Execution,N/A
 10950,CVE-2019-1443,2019-11-12T08:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Information Disclosure,N/A
 10950,CVE-2019-0830,2019-04-09T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
 10950,CVE-2019-0831,2019-04-09T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
@@ -167,7 +171,6 @@
 10950,CVE-2018-8488,2018-10-09T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Elevation of Privilege,N/A
 10950,CVE-2018-8498,2018-10-09T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Elevation of Privilege,N/A
 10950,CVE-2018-8518,2018-10-09T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Elevation of Privilege,N/A
-10950,CVE-2019-0778,2019-03-12T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Tampering,N/A
 10950,CVE-2019-0585,2019-01-08T08:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Remote Code Execution,N/A
 10950,CVE-2019-0557,2019-01-08T08:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
 10950,CVE-2019-0558,2019-01-08T08:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
@@ -221,7 +224,7 @@
 10950,CVE-2020-0924,2020-04-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
 10950,CVE-2020-0927,2020-04-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
 10950,CVE-2020-0930,2020-04-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
-10950,CVE-2020-0971,2020-04-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Remote Code Execution,N/A
+10950,CVE-2020-0971,2020-04-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Remote Code Execution,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-0971
 10950,CVE-2020-0976,2020-04-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
 10950,CVE-2020-0978,2020-04-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
 10950,CVE-2020-0980,2020-04-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Remote Code Execution,N/A
@@ -248,14 +251,6 @@
 10950,CVE-2018-1014,2018-04-10T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Elevation of Privilege,N/A
 10950,CVE-2018-1034,2018-04-10T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Elevation of Privilege,N/A
 10950,CVE-2018-1028,2018-04-10T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Remote Code Execution,N/A
-10950,CVE-2020-1345,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
-10950,CVE-2020-1198,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
-10950,CVE-2020-1514,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
-10950,CVE-2020-1205,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
-10950,CVE-2020-1218,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Remote Code Execution,N/A
-10950,CVE-2020-1227,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
-10950,CVE-2020-1440,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Tampering,N/A
-10950,CVE-2020-1482,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
 10950,CVE-2019-1202,2019-08-13T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Information Disclosure,N/A
 10950,CVE-2019-1203,2019-08-13T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
 10950,CVE-2020-1443,2020-07-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
@@ -277,6 +272,20 @@
 10950,CVE-2020-1500,2020-08-11T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
 10950,CVE-2020-1501,2020-08-11T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
 10950,CVE-2020-1573,2020-08-11T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
+10950,CVE-2019-0778,2019-03-12T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Tampering,N/A
+10950,CVE-2020-1345,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
+10950,CVE-2020-1198,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
+10950,CVE-2020-1514,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
+10950,CVE-2020-1205,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
+10950,CVE-2020-1218,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Remote Code Execution,N/A
+10950,CVE-2020-1227,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
+10950,CVE-2020-1440,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Tampering,N/A
+10950,CVE-2020-1482,2020-09-08T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
+10950,CVE-2020-16979,2020-11-10T08:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Information Disclosure,N/A
+10950,CVE-2020-17017,2020-11-10T08:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Information Disclosure,N/A
+10950,CVE-2020-17060,2020-11-10T08:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
+10950,CVE-2020-17061,2020-11-10T08:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Remote Code Execution,N/A
+10950,CVE-2020-17016,2020-11-10T08:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
 10950,CVE-2020-16942,2020-10-13T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Information Disclosure,N/A
 10950,CVE-2020-16944,2020-10-13T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
 10950,CVE-2020-16945,2020-10-13T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Spoofing,N/A
@@ -284,15 +293,11 @@
 10950,CVE-2020-16941,2020-10-13T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Information Disclosure,N/A
 10950,CVE-2020-16948,2020-10-13T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Information Disclosure,N/A
 10950,CVE-2020-16953,2020-10-13T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Information Disclosure,N/A
+10950,CVE-2020-17089,2020-12-08T08:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Elevation of Privilege,N/A
+10950,CVE-2020-17120,2020-12-08T08:00:00Z,Microsoft SharePoint Enterprise Server 2016,Important,Information Disclosure,N/A
 10950,CVE-2017-8509,2017-07-05T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Moderate,Remote Code Execution,N/A
 10950,CVE-2017-11876,2017-11-14T08:00:00Z,Microsoft SharePoint Enterprise Server 2016,Moderate,Elevation of Privilege,N/A
 10950,CVE-2020-0954,2020-04-14T07:00:00Z,Microsoft SharePoint Enterprise Server 2016,Moderate,Spoofing,N/A
+10950,CVE-2020-17115,2020-12-08T08:00:00Z,Microsoft SharePoint Enterprise Server 2016,Moderate,Spoofing,N/A
+10950,CVE-2020-17015,2020-11-10T08:00:00Z,Microsoft SharePoint Enterprise Server 2016,Low,Spoofing,N/A
 10950,ADV170020,2017-11-28T08:00:00Z,Microsoft SharePoint Enterprise Server 2016,N/A,Defense in Depth,N/A
-10612,CVE-2020-16944,2020-10-13T07:00:00Z,Microsoft SharePoint Foundation 2013 Service Pack 1,Important,Spoofing,N/A
-10612,CVE-2020-16945,2020-10-13T07:00:00Z,Microsoft SharePoint Foundation 2013 Service Pack 1,Important,Spoofing,N/A
-10612,CVE-2020-16946,2020-10-13T07:00:00Z,Microsoft SharePoint Foundation 2013 Service Pack 1,Important,Spoofing,N/A
-10612,CVE-2020-16941,2020-10-13T07:00:00Z,Microsoft SharePoint Foundation 2013 Service Pack 1,Important,Information Disclosure,N/A
-10612,CVE-2020-16948,2020-10-13T07:00:00Z,Microsoft SharePoint Foundation 2013 Service Pack 1,Important,Information Disclosure,N/A
-10612,CVE-2020-16953,2020-10-13T07:00:00Z,Microsoft SharePoint Foundation 2013 Service Pack 1,Important,Information Disclosure,N/A
-10612,CVE-2019-1259,2019-09-10T07:00:00Z,Microsoft SharePoint Foundation 2013 Service Pack 1,Moderate,Spoofing,N/A
-10612,CVE-2019-0670,2019-02-12T08:00:00Z,Microsoft SharePoint Foundation 2013 Service Pack 1,Moderate,Spoofing,N/A

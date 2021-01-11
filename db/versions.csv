@@ -1,3 +1,5 @@
+16.0.10369.20000,December 2020 CU,2020 December 1,SharePoint Server 2019 (Language Dependent),KB 4486752
+16.0.10368.20022,November 2020 CU,2020 November 1,SharePoint Server 2019 (Language Dependent),KB 4486715
 16.0.10367.20000,October 2020 CU,2020 October 1,SharePoint Server 2019 (Language Dependent),KB 4486675
 16.0.10366.12106,September 2020 CU,2020 September 1,SharePoint Server 2019 (Language Dependent),KB 4484504
 16.0.10364.20001,August 2020 CU,2020 August 1,SharePoint Server 2019 (Language Dependent),KB 4484471
@@ -20,6 +22,7 @@
 16.0.10340.12101,January 2019 CU,2019 January 1,SharePoint Server 2019 (Language Independent),KB 4461634
 16.0.10339.12102,December 2018 CU,2018 December 1,SharePoint Server 2019 (December 2018 Patc),KB 4461548
 16.0.10337.12109,October 2018,2018 October 22,Sharepoint 2019 RTM,RTM
+16.0.5095.1001,December 2020 CU,2020 December 1,SharePoint Server 2016 (Language Dependent Files),KB 4486721
 16.0.5071.1001,October 2020 CU,2020 October 1,SharePoint Server 2016 (Language Dependent Files),KB 4486681
 16.0.5056.1001,September 2020 CU,2020 September 1,SharePoint Server 2016 (Language Dependent Files),KB 4484512
 16.0.5044.1001,August 2020 CU,2020 August 1,SharePoint Server 2016 (Language Dependent Files),KB 4484476
@@ -68,9 +71,11 @@
 16.0.4405.1000,July 2016 CU,2016 July 1,SharePoint Server 2016 (Language Dependent Files),KB 3115304
 16.0.4393.1000,June 2016 CU,2016 June 1,SharePoint Server 2016 (Language Independent Files),KB 3115181
 16.0.4378.1000,May 2016 CU,2016 May 1,SharePoint Server 2016 (Language Independent Files),KB 3115088
-16.0.4351.1000,October 2020 CU,2020 October 1,SharePoint Server 2016,RTM
-16.0.4327.1000,October 2020 CU,2020 October 1,SharePoint Server 2016,RC
-16.0.4107.1002,October 2020 CU,2020 October 1,SharePoint Server 2016,IT Preview
+16.0.4351.1000,December 2020 CU,2020 December 1,SharePoint Server 2016,RTM
+16.0.4327.1000,December 2020 CU,2020 December 1,SharePoint Server 2016,RC
+16.0.4107.1002,December 2020 CU,2020 December 1,SharePoint Server 2016,IT Preview
+15.0.5301.1000,December 2020 CU,2020 December 1,Sharepoint Server 2013,KB4486761
+15.0.5293.1000,November 2020 CU,2020 November 1,Sharepoint Server 2013,KB4486728
 15.0.5285.1000,October 2020 CU,2020 October 1,Sharepoint Server 2013,KB4486690
 15.0.5267.1000,August 2020 CU,2020 August 1,Sharepoint Server 2013,KB4484482
 15.0.5259.1001,July 2020 CU,2020 July 1,Sharepoint Server 2013,KB4484444
@@ -159,8 +164,10 @@
 15.0.4505.1002,April 2013 CU,2013 April 1,Sharepoint Server 2013,KB2751999 
 15.0.4481.1005,March 2013 CU,2013 March 1,Sharepoint Server 2013,KB2767999
 15.0.4433.1506,December 2012 CU,2012 December 1,Sharepoint Server 2013,KB2752001
-15.0.4420.1017,October 2020 CU,2020 October 1,Sharepoint Server 2013,Download
-15.0.4128.1014,October 2020 CU,2020 October 1,Sharepoint Server 2013,Download
+15.0.4420.1017,December 2020 CU,2020 December 1,Sharepoint Server 2013,Download
+15.0.4128.1014,December 2020 CU,2020 December 1,Sharepoint Server 2013,Download
+14.0.7263.5000,December 2020 CU,2020 December 1,Sharepoint Server 2010,KB4493146
+14.0.7262.5000,November 2020 CU,2020 November 1,Sharepoint Server 2010,KB4486741
 14.0.7261.5000,October 2020 CU,2020 October 1,Sharepoint Server 2010,KB4486705
 14.0.7260.5000,September 2020 CU,2020 September 1,Sharepoint Server 2010,KB4486662
 14.0.7256.5000,August 2020 CU,2020 August 1,Sharepoint Server 2010,KB4484496
